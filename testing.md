@@ -92,3 +92,5 @@ When to refactor: look for "*code smells*"
  - Subclasses doesn't use features of superclass
  
 > Without refactoring, projects will gain "technical debt" which is needed refactoring and documentation for the upkeeping of the project. People push projects to completion for a deadline, then clean the code afterwards
+
+    There were also notes on controller / view / user / database interactions, but I wasnt paying attention enough to understand it.
